@@ -1,0 +1,42 @@
+[
+    {
+      "firstname": "Joe",
+      "lastname": "Smith",
+      "gender": "Undisclosed",
+      "birthday": "12/25/2000",
+      "status": "Single",
+      "salary": 35000
+    },
+    {
+      "firstname": "Juliet",
+      "lastname": "Capulet",
+      "gender": "Female",
+      "birthday": "7/31/1995",
+      "status": "Undisclosed",
+      "salary": 80000
+    },
+    {
+      "firstname": "Tony",
+      "lastname": "Stark",
+      "gender": "Male",
+      "birthday": "5/29/1970",
+      "status": "Married",
+      "salary": 275000
+    },
+    {
+      "firstname": "Natasha",
+      "lastname": "Romanoff",
+      "gender": "Female",
+      "birthday": "12/3/1984",
+      "status": "Single",
+      "salary": 200000
+    },
+    {
+      "firstname": "Bruce",
+      "lastname": "Banner",
+      "gender": "Male",
+      "birthday": "12/18/1969",
+      "status": "Single",
+      "salary": 230000
+    }
+  ]
